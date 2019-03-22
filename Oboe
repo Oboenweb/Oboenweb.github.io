@@ -1,4 +1,5 @@
 $ echo "Die Oboe" > index.html
 $ git add index.html
+$ git add style.css
 $ git commit -a -m "First pages commit"
 $ git push origin master
